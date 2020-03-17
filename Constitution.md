@@ -230,8 +230,10 @@ Subject to this Constitution, the Committee shall be responsible to the Club in 
 (d) Report on the status of the club to the ordinary members at all general meetings.
 
 **21. VICE PRESIDENT**
+21.1 In addition to any provisions set out elsewhere in the Constitution or in any By-Laws or Regulations made hereunder, it shall be the duty of the Vice President to:
 
-21.1 In addition to any provisions set out elsewhere in the Constitution or in any By-Laws or Regulations made hereunder, it shall be the duty of the Vice President to assist the President wherever possible.
+(a) Seek, engage and maintain client relationships, as well as source projects, and oversee their delivery.
+(b) assist the President wherever possible.
 
 **22. SECRETARY**
 
