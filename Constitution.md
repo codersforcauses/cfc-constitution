@@ -58,7 +58,7 @@ Students enrolled at the University of Western Australia.
 
 **5. SUBSCRIPTIONS**
 
-5.1 The annual subscription for ordinary membership shall be an absolute minimum of $4.
+5.1 The annual subscription for ordinary membership shall be an absolute minimum of \$4.
 
 5.2 Guild members shall receive a minimum $2 discount on yearly subscription fees and $1 on half-year subscription fees.
 
@@ -159,9 +159,7 @@ The Treasurer
 
 (b) The Ordinary Committee who shall consist of:
 
-1 Client Officer
-
-who will be the mediator between the Financial Members of the Club and the Client(s)
+1 Marketing Officer
 
 2 Ordinary Committee Members
 
@@ -177,7 +175,7 @@ Only the person who held the Elected Office Bearer position of President immedia
 
 14.1 The Executive Office Bearers and the Ordinary Committee members shall remain in office until the next Annual General Meeting.
 
-14.2 If an Ordinary Committee Member other than the Client Officer fails to arrive to a meeting without a valid reason, he/she shall gain a strike. If the same member gains three strikes, he/she shall be removed from the position.
+14.2 If an Ordinary Committee Member fails to arrive to a meeting without a valid reason, he/she shall gain a strike. If the same member gains three strikes, he/she shall be removed from the position.
 
 14.3 If the Client Officer fails to fulfil his/her role, he/she shall be subject to the same rules as that of an Executive Office Bearer outlined in Article 12.8 of this Constitution.
 
@@ -232,8 +230,10 @@ Subject to this Constitution, the Committee shall be responsible to the Club in 
 (d) Report on the status of the club to the ordinary members at all general meetings.
 
 **21. VICE PRESIDENT**
+21.1 In addition to any provisions set out elsewhere in the Constitution or in any By-Laws or Regulations made hereunder, it shall be the duty of the Vice President to:
 
-21.1 In addition to any provisions set out elsewhere in the Constitution or in any By-Laws or Regulations made hereunder, it shall be the duty of the Vice President to assist the President wherever possible.
+(a) Seek, engage and maintain client relationships, as well as source projects, and oversee their delivery.
+(b) assist the President wherever possible.
 
 **22. SECRETARY**
 
@@ -317,4 +317,4 @@ Prepare necessary forms, and receipts for Societies Council in accordance with S
 
 31.1 If upon the dissolution of the club, any property of the club remains after satisfaction of the debts and liabilities of the club that property shall be distributed to another association or club affiliated to the Societies Council which has similar objectives to those of the club, and which association shall be determined by resolution of the members.
 
-Adopted by General Meeting ______________________________________ 20/03/2018
+Adopted by General Meeting **\*\*\*\***\*\***\*\*\*\***\_\_**\*\*\*\***\*\***\*\*\*\*** xx/xx/2020
