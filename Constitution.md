@@ -125,6 +125,8 @@ The President
 
 The Vice President
 
+The Technical Lead
+
 The Secretary
 
 The Treasurer
