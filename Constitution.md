@@ -58,7 +58,7 @@ Students enrolled at the University of Western Australia.
 
 **5. SUBSCRIPTIONS**
 
-5.1 The annual subscription for ordinary membership shall be an absolute minimum of \$4.
+5.1 The annual subscription for ordinary membership shall be an absolute minimum of $4.
 
 5.2 Guild members shall receive a minimum $2 discount on yearly subscription fees and $1 on half-year subscription fees.
 
