@@ -244,7 +244,7 @@ Subject to this Constitution, the Committee shall be responsible to the Club in 
 
 (a) To advise the Committee on technical and development related matters.
 
-(b) To ensure workshop and talk content is accurate and correct.
+(b) To ensure workshop and presentation content is accurate and correct.
 
 (c) To conduct code reviews and assist with project development if requested.
 
