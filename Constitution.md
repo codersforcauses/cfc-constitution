@@ -56,7 +56,7 @@ Students enrolled at the University of Western Australia.
 
 **5. SUBSCRIPTIONS**
 
-5.1 The annual subscription for ordinary membership shall be an absolute minimum of $4.
+5.1 The annual subscription for ordinary membership shall be an absolute minimum of \$4.
 
 5.2 Guild members shall receive a minimum $2 discount on yearly subscription fees and $1 on half-year subscription fees.
 
@@ -123,6 +123,8 @@ The President
 
 The Vice President
 
+The Technical Lead
+
 The Secretary
 
 The Treasurer
@@ -157,9 +159,7 @@ The Treasurer
 
 (b) The Ordinary Committee who shall consist of:
 
-1 Client Officer
-
-who will be the mediator between the Financial Members of the Club and the Client(s)
+1 Marketing Officer
 
 2 Ordinary Committee Members
 
@@ -175,7 +175,7 @@ Only the person who held the Elected Office Bearer position of President immedia
 
 14.1 The Executive Office Bearers and the Ordinary Committee members shall remain in office until the next Annual General Meeting.
 
-14.2 If an Ordinary Committee Member other than the Client Officer fails to arrive to a meeting without a valid reason, he/she shall gain a strike. If the same member gains three strikes, he/she shall be removed from the position.
+14.2 If an Ordinary Committee Member fails to arrive to a meeting without a valid reason, he/she shall gain a strike. If the same member gains three strikes, he/she shall be removed from the position.
 
 14.3 If the Client Officer fails to fulfil his/her role, he/she shall be subject to the same rules as that of an Executive Office Bearer outlined in Article 12.8 of this Constitution.
 
@@ -231,11 +231,24 @@ Subject to this Constitution, the Committee shall be responsible to the Club in 
 
 **21. VICE PRESIDENT**
 
-21.1 In addition to any provisions set out elsewhere in the Constitution or in any By-Laws or Regulations made hereunder, it shall be the duty of the Vice President to assist the President wherever possible.
+21.1 In addition to any provisions set out elsewhere in the Constitution or in any By-Laws or Regulations made hereunder, it shall be the duty of the Vice President to:
 
-**22. SECRETARY**
+(a) Seek, engage and maintain client relationships, as well as source projects, and oversee their delivery.
+(b) assist the President wherever possible.
 
-22.1 In addition to any provisions set out elsewhere in the Constitution or in any By-Laws or Regulations made hereunder, it shall be the duty of the Secretary:
+**22. TECHNICAL LEAD**
+
+22.1 In addition to any provisions set out elsewhere in the Constitution or in any By-Laws or Regulations made hereunder, it shall be the duty of the Technical Lead:
+
+(a) To advise the Committee on technical and development related matters.
+
+(b) To ensure workshop and presentation content is accurate and correct.
+
+(c) To conduct code reviews and assist with project development if requested.
+
+**23. SECRETARY**
+
+23.1 In addition to any provisions set out elsewhere in the Constitution or in any By-Laws or Regulations made hereunder, it shall be the duty of the Secretary:
 
 (a) To record all proceedings of the Club and the Committee in a Club Minute Book which they shall cause to be provided for that purpose:
 
@@ -253,9 +266,9 @@ To lodge with the Secretary of the Societies Council a copy of the Constitution 
 
 (e) In the event of the Club being de-registered, to present to the Societies Council Secretary within thirty days a duly audited statement of the financial position of the Club together with a copy of the resolution, which may have been passed by the Club as to the disposition of its funds.
 
-**23. TREASURER**
+**24. TREASURER**
 
-23.1 In addition to any provisions set out elsewhere in the Constitution or in any By-Laws or Regulations made hereunder, it shall be the duty of the Treasurer:
+24.1 In addition to any provisions set out elsewhere in the Constitution or in any By-Laws or Regulations made hereunder, it shall be the duty of the Treasurer:
 
 Keep proper books of account dealing with the property and finances of the Club and to furnish the Committee with such accounts and information relating to the finances and property of the Club as the Committee from time to time require.
 
@@ -267,52 +280,52 @@ Produce and deliver all necessary books, vouchers and other documents to the per
 
 Prepare necessary forms, and receipts for Societies Council in accordance with Societies Council grant policies.
 
-**24. DEPOSITS AND WITHDRAWAL OF MONIES**
+**25. DEPOSITS AND WITHDRAWAL OF MONIES**
 
-24.1 All monies due and payable to the Club shall be received by the Treasurer who shall lodge them without undue delay with Guild Finance for the credit of the Club.
+25.1 All monies due and payable to the Club shall be received by the Treasurer who shall lodge them without undue delay with Guild Finance for the credit of the Club.
 
-24.2 Any two members of the Executive may jointly sign cheques and forms of authority for the payment of funds of the Society.
+25.2 Any two members of the Executive may jointly sign cheques and forms of authority for the payment of funds of the Society.
 
-24.3 Notwithstanding anything contained herein, no persons shall deposit or withdraw any monies into any account that Guild Council has closed by resolution.
+25.3 Notwithstanding anything contained herein, no persons shall deposit or withdraw any monies into any account that Guild Council has closed by resolution.
 
-**25. PAYMENTS**
+**26. PAYMENTS**
 
-25.1 No payments shall be made on behalf or in the name of the Club unless it has been authorised by the Executive Office Bearers, in accordance with Article 2.2
+26.1 No payments shall be made on behalf or in the name of the Club unless it has been authorised by the Executive Office Bearers, in accordance with Article 2.2
 
-**26. MAJOR OBLIGATIONS TO GUILD**
+**27. MAJOR OBLIGATIONS TO GUILD**
 
-26.1 The Club shall comply with the Regulation of the Guild, the Rules of the Societies Council, and all other provisions enrolled upon the Guild Statutes book.
+27.1 The Club shall comply with the Regulation of the Guild, the Rules of the Societies Council, and all other provisions enrolled upon the Guild Statutes book.
 
-26.2 All Office Bearers and committee members shall be jointly and severally responsible for such compliance, and shall be deemed liable in the event of noncompliance therewith.
+27.2 All Office Bearers and committee members shall be jointly and severally responsible for such compliance, and shall be deemed liable in the event of noncompliance therewith.
 
-**27. EXPULSION OF MEMBERS**
+**28. EXPULSION OF MEMBERS**
 
-27.1 The Committee may by unanimous vote request any member or associate member to resign from the Club, and in the event shall cause written notification of such request to be served upon the member concerned.
+28.1 The Committee may by unanimous vote request any member or associate member to resign from the Club, and in the event shall cause written notification of such request to be served upon the member concerned.
 
-27.2 Should such a request prove ineffectual after fourteen days of written notification, the Committee may serve written notice of intended expulsion of the member concerned and should they not have resigned seven days after, the Committee may by unanimous vote expel him or her from the Club; but such expulsion shall be subject to review at the next General Meeting with the member present and to be heard.
+28.2 Should such a request prove ineffectual after fourteen days of written notification, the Committee may serve written notice of intended expulsion of the member concerned and should they not have resigned seven days after, the Committee may by unanimous vote expel him or her from the Club; but such expulsion shall be subject to review at the next General Meeting with the member present and to be heard.
 
-27.3 A person who has been expelled or has resigned their membership may not reapply for membership for the period of one year.
+28.3 A person who has been expelled or has resigned their membership may not reapply for membership for the period of one year.
 
-**28. AVAILABILITY OF CONSTITUTION**
+**29. AVAILABILITY OF CONSTITUTION**
 
-28.1 The Committee shall make this Constitution available on request to all Ordinary Members.
+29.1 The Committee shall make this Constitution available on request to all Ordinary Members.
 
-**29. INTERPRETATION**
+**30. INTERPRETATION**
 
-29.1 Subject to any provisions enrolled upon the Guild Statutes book and to any resolution passed by Guild Council, or the Societies Council, the President shall have the power to interpret the meaning of any of the provisions contained in the Constitution, but the determining decision in case of doubt shall rest with the Club in General Meeting.
+30.1 Subject to any provisions enrolled upon the Guild Statutes book and to any resolution passed by Guild Council, or the Societies Council, the President shall have the power to interpret the meaning of any of the provisions contained in the Constitution, but the determining decision in case of doubt shall rest with the Club in General Meeting.
 
-**30. AMENDMENT OF THIS CONSTITUTION**
+**31. AMENDMENT OF THIS CONSTITUTION**
 
-30.1 Any two financial Ordinary Members of the Club may not less than three days before the day appointed for the next General Meeting submit to the Secretary a notice of motion signed by them proposing an alteration to this Constitution. This shall be posted on notice boards forthwith.
+31.1 Any two financial Ordinary Members of the Club may not less than three days before the day appointed for the next General Meeting submit to the Secretary a notice of motion signed by them proposing an alteration to this Constitution. This shall be posted on notice boards forthwith.
 
-30.2 The motion may then be considered by the Club at its next meeting and amendments that are relevant to the subject matter thereof may be moved without notice.
+31.2 The motion may then be considered by the Club at its next meeting and amendments that are relevant to the subject matter thereof may be moved without notice.
 
-30.3 The motion of any amendment thereto shall not be deemed adopted unless it receives a two-thirds majority of the members present and voting.
+31.3 The motion of any amendment thereto shall not be deemed adopted unless it receives a two-thirds majority of the members present and voting.
 
-30.4 The motion as adopted with any amendments shall come into force upon receiving the approval of the Societies Council.
+31.4 The motion as adopted with any amendments shall come into force upon receiving the approval of the Societies Council.
 
-**31. DISSOLUTION OF THE CLUB**
+**32. DISSOLUTION OF THE CLUB**
 
-31.1 If upon the dissolution of the club, any property of the club remains after satisfaction of the debts and liabilities of the club that property shall be distributed to another association or club affiliated to the Societies Council which has similar objectives to those of the club, and which association shall be determined by resolution of the members.
+32.1 If upon the dissolution of the club, any property of the club remains after satisfaction of the debts and liabilities of the club that property shall be distributed to another association or club affiliated to the Societies Council which has similar objectives to those of the club, and which association shall be determined by resolution of the members.
 
-Adopted by General Meeting ______________________________________ 20/03/2018
+Adopted by General Meeting - 17/03/2020
