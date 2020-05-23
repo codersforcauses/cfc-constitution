@@ -1,5 +1,3 @@
-# Constitution
-
 **CONSTITUTION of the Coders for Causes**
 
 **1. NAME**
