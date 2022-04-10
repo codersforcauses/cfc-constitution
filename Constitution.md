@@ -161,7 +161,7 @@ The Treasurer
 
 1 Marketing Officer
 
-2 Ordinary Committee Members
+3 Ordinary Committee Members
 
 1 Fresher Representative
 
