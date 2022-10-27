@@ -177,7 +177,7 @@ Only the person who held the Elected Office Bearer position of President immedia
 
 14.2 If an Ordinary Committee Member fails to arrive to a meeting without a valid reason, he/she shall gain a strike. If the same member gains three strikes, he/she shall be removed from the position.
 
-14.3 If the Client Officer fails to fulfil his/her role, he/she shall be subject to the same rules as that of an Executive Office Bearer outlined in Article 12.8 of this Constitution.
+14.3 If an Ordinary Committee Member fails to fulfil their role, they shall be subject to the same rules as that of an Executive Office Bearer outlined in Article 12.8 of this Constitution.
 
 **15. VACANCIES**
 
