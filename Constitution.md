@@ -82,8 +82,8 @@ But shall otherwise have all the rights and privileges of ordinary membership.
 
 8.1.1 The Club will hold its inaugural Annual General Meeting in August.
 
-8.2 The Committee may at any time call a Special Meeting of the Club.
-8.3 The Secretary shall forthwith call a Special Meeting upon receiving a written requisition from at least 10 financial ordinary members of the Club, and such a meeting shall be held no later than ten days immediately following receipt of such a requisition.
+8.2 The Committee may at any time call a Special General Meeting of the Club.
+8.3 The Secretary shall forthwith call a Special General Meeting upon receiving a written requisition from at least 10 financial ordinary members of the Club, and such a meeting shall be held no later than ten days immediately following receipt of such a requisition.
 
 8.4 If the Secretary fails to call the meeting within that time, any of the signatories of the requisition may do so. Any business set out in the requisition shall have priority over all the other business.
 
@@ -97,7 +97,7 @@ But shall otherwise have all the rights and privileges of ordinary membership.
 
 9.4 All General Meeting of the Club shall be conducted in accordance with the procedure prescribed in the Standing Rules and Orders of the Guild Council.
 
-9.5 The Annual General Meeting of the club must be supervised by at least one Returning Officer who shall:
+9.5 Any General Meetings of the club involving an election must be supervised by at least one Returning Officer who shall:
 
 (a) Not be contesting the election
 
@@ -161,7 +161,7 @@ The Treasurer
 
 1 Marketing Officer
 
-3 Ordinary Committee Members
+4 Ordinary Committee Members
 
 1 Fresher Representative
 
@@ -175,13 +175,17 @@ Only the person who held the Elected Office Bearer position of President immedia
 
 14.1 The Executive Office Bearers and the Ordinary Committee members shall remain in office until the next Annual General Meeting.
 
-14.2 If an Ordinary Committee Member fails to arrive to a meeting without a valid reason, he/she shall gain a strike. If the same member gains three strikes, he/she shall be removed from the position.
+14.2 If an Ordinary Committee Member fails to arrive to a meeting without a valid reason, they shall gain a strike. If the same member gains three strikes, they shall be removed from the position.
 
-14.3 If the Client Officer fails to fulfil his/her role, he/she shall be subject to the same rules as that of an Executive Office Bearer outlined in Article 12.8 of this Constitution.
+14.3 If an Ordinary Committee Member fails to fulfil their role, they shall be subject to the same rules as that of an Executive Office Bearer outlined in Article 12.8 of this Constitution.
 
 **15. VACANCIES**
 
 15.1 If an Office Bearer resigns or ceases to hold office for any reason the remaining members of the Committee shall forthwith fill the vacancy so created by appointing thereto a member of the Committee from the Ordinary Membership, subject to review at the next General Meeting.
+
+15.2 The committee shall therefore have the power to appoint a financial member of the club as an interim Ordinary Committee Member to fill the vacancy.
+
+15.3 Newly appointed Office Bearers will be ratified at the next General Meeting of the club, which shall be held no later than 2 months after the appointment/s.
 
 **16. COMMITTEE MEETINGS**
 
@@ -189,7 +193,7 @@ Only the person who held the Elected Office Bearer position of President immedia
 
 16.2 The Secretary shall cause all members of the Committee to receive seven days’ notice before the date fixed for the meeting together with an agenda of the business to be discussed.
 
-16.3 The Secretary shall forthwith call a Special Meeting of the Committee upon receiving a written requisition from at least two members thereof, and such a Special Meeting shall be held not later than seven days immediately following receipt of requisition.
+16.3 The Secretary shall forthwith call a Special General Meeting of the Committee upon receiving a written requisition from at least two members thereof, and such a Special General Meeting shall be held not later than seven days immediately following receipt of requisition.
 
 16.4 If the Secretary fails to call the meeting within that time, any one of the members signing the requisition may do so. Any business set out in the requisition shall have priority over all other business.
 
@@ -328,4 +332,4 @@ Prepare necessary forms, and receipts for Societies Council in accordance with S
 
 32.1 If upon the dissolution of the club, any property of the club remains after satisfaction of the debts and liabilities of the club that property shall be distributed to another association or club affiliated to the Societies Council which has similar objectives to those of the club, and which association shall be determined by resolution of the members.
 
-Adopted by General Meeting - 18/03/2021
+Adopted by General Meeting - 16/03/2023
