@@ -332,4 +332,4 @@ Prepare necessary forms, and receipts for Societies Council in accordance with S
 
 32.1 If upon the dissolution of the club, any property of the club remains after satisfaction of the debts and liabilities of the club that property shall be distributed to another association or club affiliated to the Societies Council which has similar objectives to those of the club, and which association shall be determined by resolution of the members.
 
-Adopted by General Meeting - TBC
+Adopted by General Meeting - 16/03/2023
