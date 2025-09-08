@@ -26,7 +26,7 @@ To do all such things as would appear necessary and proper for the benefit or ad
 
 3.2 A subscription for an Ordinary Membership may be made payable to the Club if the Committee so desires.
 
-3.2.1 A subscription for an Ordinary Membership may only be bought by an enrolled Student of the University of Western Australia and a current member of the University of Western Australia Student Guild.
+3.2.1 A subscription for an Ordinary Membership may only be bought by a person who is an enrolled Student of the University of Western Australia and is a current member of the University of Western Australia Student Guild.
 
 3.3 A subscription for an Associate Membership may be made payable to the Club if the Committee so desires.
 
@@ -102,7 +102,7 @@ The Treasurer
 
 12.2 No Executive Office Bearer may hold an Executive position simultaneously within the club or with another University of WA Club. In the event it does happen, The Executive Office Bearer must step down from their Executive Position in any of Clubs.
 
-12.3The Committee in meeting may dismiss an Elected Office-Bearer where, in the opinion of three quarters of the members of the Committee present and voting, that Elected Office-Bearer has:
+12.3 The Committee in meeting may dismiss an Elected Office-Bearer where, in the opinion of three quarters of the members of the Committee present and voting, that Elected Office-Bearer has:
 
 (a) Consistently failed adequately to discharge the duties of that position; or
 
@@ -256,7 +256,7 @@ Subject to this Constitution, the Committee shall be responsible to the Club in 
 
 23.1 In addition to any provisions set out elsewhere in the Constitution or in any By-Laws or Regulations made hereunder, it shall be the duty of the Secretary:
 
-(a) To record all proceedings of the Club and the Committee in a Club Minute Book which they shall cause to be provided for that purpose:
+(a) To record the proceedings of all General Meetings and meetings of the Committee and make these minutes available in an easily accessible portion of the Club's online presence.
 
 (b) To conduct and keep copies of all correspondence of the Club:
 
