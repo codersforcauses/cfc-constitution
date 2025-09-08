@@ -178,7 +178,7 @@ _.7.2 The decision to hold such an election will be decided by, and announced by
 
 14.2 If an Ordinary Committee Member fails to arrive to a meeting without a valid reason, they shall gain a strike. If the same member gains three strikes, they shall be removed from the position.
 
-14.3 If an Ordinary Committee Member fails to fulfil their role, they shall be subject to the same rules as that of an Executive Office Bearer outlined in Article 12.8 of this Constitution.
+14.3 If an Ordinary Committee Member fails to fulfil their role, they shall be subject to the same rules as that of an Executive Office Bearer outlined in Article 12.3 of this Constitution.
 
 **15. VACANCIES**
 
