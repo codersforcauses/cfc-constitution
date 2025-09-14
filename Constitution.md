@@ -1,8 +1,8 @@
-**CONSTITUTION of the Coders for Causes**
+**CONSTITUTION of the Coders For Causes**
 
 **1. NAME**
 
-1.1 The formal name of the club shall be Coders for Causes.
+1.1 The formal name of the club shall be Coders For Causes.
 
 1.2 The club may also choose to go by CFC.
 
